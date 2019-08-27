@@ -1,0 +1,5 @@
+beast,beastenemy.csv,beastitem.csv
+mecha,mechaenemy.csv,mechaitem.csv
+element,elementenemy.csv,elementitem.csv
+zombie,zombieenemy.csv,zombieitem.csv
+spider,spiderenemy.csv,spideritem.csv
